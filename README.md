@@ -145,7 +145,7 @@ GXLF/
 ├── run.py
 │
 ├── requirements.txt
-└── README.md
+README.md
 ```
 
 ---
