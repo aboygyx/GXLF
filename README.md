@@ -130,7 +130,6 @@ GXLF/
 │   ├── attn.py
 │   ├── ContraNorm.py
 │   ├── decoder.py
-│   ├── DSAttention.py
 │   ├── embed.py
 │   ├── encoder.py
 │   ├── fourier.py
